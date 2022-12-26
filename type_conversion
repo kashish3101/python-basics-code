@@ -1,0 +1,9 @@
+print("THIS IS A TYPE CONVERSION PROGRAM ")
+#GETTING INPUT FROM USER
+old_age=input("HI USER WHAT WAS YOUR AGE IN 2020,PLEASE ENTER THAT?")
+new_age=int(old_age)+2
+if(new_age>20):
+    print(new_age)
+else:
+    print(old_age)
+   
