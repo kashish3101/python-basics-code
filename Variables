@@ -1,4 +1,10 @@
-a=input("What is your name dear user ?")
-print("hello",a)
-# we can use + /, operator for printing strings together or concatenation
-#we can use both 
+age=90
+print(age)
+a="kashish"
+print(a)
+b=True 
+if(age>60):
+ print("yes valid age")#indentation 
+ b=False
+ print ("b now value is",b)
+# 4 type of variables ,int, float,boolean and string
