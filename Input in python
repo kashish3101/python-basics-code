@@ -1,0 +1,4 @@
+a=input("What is your name dear user ?")
+print("hello",a)
+# we can use + /, operator for printing strings together or concatenation
+#we can use both 
