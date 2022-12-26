@@ -1,0 +1,4 @@
+num1=input("ENTER FIRST NUMBER :")
+num2=input("ENTER SECOND NUMBER:")
+sum=int(num1)+int(num2)
+print("SUM OF TWO NUMBERS IS-",sum)
